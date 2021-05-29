@@ -4,6 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![image](https://user-images.githubusercontent.com/73156364/120079440-5e2dc100-c0e6-11eb-9030-4e8e714cc89c.png)
 
+The reasons I chose React to build this project are:
+
+1. Writing and rendering subcomponents are simpler.
+2. It has strong reusability and reduces headaches when dealing with logic changes down the line
+3. The Virtual DOM feature of react ensures faster rendering
+4. By being able to organize the app into child structures, small changes wont affect parent files
+5. It is focused, and easy-to-read
+
 
 ## Available Scripts
 
