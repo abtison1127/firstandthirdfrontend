@@ -1,0 +1,33 @@
+.wrapper h1, h3{
+    padding: 15px 20px;
+    text-align: center;
+  }
+  
+  .wrapper  h3{
+    padding: 0;
+    text-align: center;
+  }
+  
+  
+  
+  .wrappper-2 input{
+    float: right;
+  }
+  
+  
+  .wrapper h4{
+    margin-bottom: 0;
+    left: 0;
+    position:relative;
+  }
+  
+  .wrapper p{
+    margin-top: 0;
+    left: 0;
+    position: relative;
+  }
+  
+
+  
+  
+  
